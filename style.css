@@ -41,12 +41,23 @@ div nav#nav-menu {
   transition: 1s;
 }
 
-/* Responsive Web */
-@media screen and (max-width: 1080px) {
-  div nav#nav-menu {
-    transition: 1s;
-  }
+/* Education */
+.education-data {
+  grid-template-columns: 1fr max-content 1fr;
 }
+.education-rounder {
+  width: 13px;
+  height: 13px;
+  display: inline-block;
+  border-radius: 50%;
+}
+.education-line {
+  transform: translate(6px, -7px);
+}
+/* Education End */
+
+/* Responsive Web */
+
 @media screen and (max-width: 1024px) {
   div#menu-toogle nav#nav-menu {
     transform: translateY(-1000px);
@@ -74,6 +85,20 @@ div nav#nav-menu {
   }
   div#home-content h1#name span {
     font-size: 2rem;
+  }
+  #education-content1 {
+    margin-left: 2rem;
+  }
+  #education-content1 h4 {
+    font-size: 1rem;
+  }
+  .education-data {
+    gap: 12px;
+  }
+
+  #project-content img {
+    height: 50%;
+    width: 100%;
   }
 }
 @media screen and (max-width: 320px) {
