@@ -2,7 +2,7 @@
 
 ## Website Portofolio
 
-### Solar System Exploration, 1950s – 1960s
+### Acceptance Criteria
 
 - [x] Menggunakan Git sebagai repositori kerja
 - [x] Menggunakan Tailwind CSS
