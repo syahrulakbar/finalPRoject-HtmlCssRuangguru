@@ -2,6 +2,8 @@
 
 ## Website Portofolio
 
+Submission Final Project HTML & CSS
+
 ### Acceptance Criteria
 
 - [x] Menggunakan Git sebagai repositori kerja
