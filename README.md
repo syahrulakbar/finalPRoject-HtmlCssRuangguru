@@ -1,6 +1,10 @@
 # **Final Course HTML & CSS**
 
+![certificate](assets/image/HTML%20CSS.jpg)
+
 ## Website Portofolio
+
+![preview](assets/image/show-project.png)
 
 ### Acceptance Criteria
 
@@ -12,3 +16,8 @@
 
 Build with : <br>
 ![alt text](assets/image/html.png) ![alt text](assets/image/css.png)![alt text](assets/image/tailwind.png)
+
+Big Thanks : <br>
+
+1. Mentor and Mentee [Ruangguru](https://www.ruangguru.com/) x [Kampus Merdeka](https://kampusmerdeka.kemdikbud.go.id/) Studi Independent
+2. Bapak Sandhika Galih and Tim at [Discord WPU](https://discord.gg/S4rrXQU/)
